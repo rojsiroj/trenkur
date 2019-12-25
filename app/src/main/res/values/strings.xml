@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">TrenKur</string>
+    <string name="shaving_style_title">Shaving Style Title</string>
+    <string name="detail">Detail Shaving Style</string>
+    <string name="about_txt">About Me</string>
+    <string name="default_title_txt">Gaya Cepak</string>
+    <string name="default_content_text">Lorem Ipsum dolor sit amet</string>
+    <string name="my_name_txt">Muhamad Sirojudin</string>
+    <string name="my_ocupation_txt">Calon Kotlin Expert</string>
+    <string name="my_email">sirojudin145@gmail.com</string>
 </resources>
